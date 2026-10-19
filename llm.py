@@ -12,7 +12,7 @@ load_dotenv()
 
 SYSTEM = """You are a careful research assistant. Answer ONLY using the numbered context passages.
 Rules:
-- Cite every factual sentence with the passage tag(s), e.g. [S1] or [S2][S3].
+- Cite every factual sentence with ASCII square-bracket tags only, e.g. [S1] or [S2][S3]. Never use other bracket styles.
 - Never cite a passage that does not support the sentence.
 - If the context does not contain the answer, say: "I could not find this in the document."
 - Be concise and precise."""
@@ -50,7 +50,9 @@ def call_llm(prompt: str, provider: str | None = None, system: str = SYSTEM) -> 
 
 def answer(question: str, hits: list[Hit], provider: str | None = None) -> dict:
     text = call_llm(build_prompt(question, hits), provider)
-    cited = sorted({int(n) for n in re.findall(r"\[S(\d+)\]", text) if 0 < int(n) <= len(hits)})
+    text = text.replace("【", "[").replace("】", "]")  # normalise full-width brackets
+    groups = re.findall(r"\[([^\]]*S\d+[^\]]*)\]", text)  # handles [S2] and [S2, S3]
+    cited = sorted({int(n) for g in groups for n in re.findall(r"S(\d+)", g) if 0 < int(n) <= len(hits)})
     sources = [
         {"tag": f"S{n}", "page": hits[n - 1].chunk.page, "section": hits[n - 1].chunk.section,
          "file": hits[n - 1].chunk.source, "text": hits[n - 1].chunk.text}
