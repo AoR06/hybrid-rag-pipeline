@@ -1,0 +1,5 @@
+mode,Hit@5,MRR@5,latency_ms
+bm25,1.0,0.939,0.339
+dense,1.0,0.768,178.939
+hybrid,1.0,0.869,18.979
+hybrid+rerank,1.0,0.94,5337.153

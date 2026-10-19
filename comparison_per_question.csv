@@ -1,0 +1,121 @@
+question,mode,first_relevant_rank
+Which iterative algorithm does Metwaly et al.’s unrolled network imitate for radar beampattern design?,bm25,1
+Which iterative algorithm does Metwaly et al.’s unrolled network imitate for radar beampattern design?,dense,1
+Which iterative algorithm does Metwaly et al.’s unrolled network imitate for radar beampattern design?,hybrid,1
+Which iterative algorithm does Metwaly et al.’s unrolled network imitate for radar beampattern design?,hybrid+rerank,1
+Which section of the paper outlines future work on radar waveform design using explainable deep learning methods?,bm25,1
+Which section of the paper outlines future work on radar waveform design using explainable deep learning methods?,dense,2
+Which section of the paper outlines future work on radar waveform design using explainable deep learning methods?,hybrid,1
+Which section of the paper outlines future work on radar waveform design using explainable deep learning methods?,hybrid+rerank,1
+What technique did Zhang et al. introduce to modify the step size in gradient projection and speed up convergence?,bm25,1
+What technique did Zhang et al. introduce to modify the step size in gradient projection and speed up convergence?,dense,1
+What technique did Zhang et al. introduce to modify the step size in gradient projection and speed up convergence?,hybrid,1
+What technique did Zhang et al. introduce to modify the step size in gradient projection and speed up convergence?,hybrid+rerank,1
+What is the title of the 2021 IEEE Access article that presents a neural‑network‑based optimization method for designing radar waveforms with good correlation properties?,bm25,1
+What is the title of the 2021 IEEE Access article that presents a neural‑network‑based optimization method for designing radar waveforms with good correlation properties?,dense,1
+What is the title of the 2021 IEEE Access article that presents a neural‑network‑based optimization method for designing radar waveforms with good correlation properties?,hybrid,1
+What is the title of the 2021 IEEE Access article that presents a neural‑network‑based optimization method for designing radar waveforms with good correlation properties?,hybrid+rerank,1
+What objective is most frequently optimized in radar waveform design to improve detection probability?,bm25,1
+What objective is most frequently optimized in radar waveform design to improve detection probability?,dense,1
+What objective is most frequently optimized in radar waveform design to improve detection probability?,hybrid,1
+What objective is most frequently optimized in radar waveform design to improve detection probability?,hybrid+rerank,1
+What is the purpose of designing a transmit waveform to match a desired beampattern in radar systems?,bm25,1
+What is the purpose of designing a transmit waveform to match a desired beampattern in radar systems?,dense,1
+What is the purpose of designing a transmit waveform to match a desired beampattern in radar systems?,hybrid,1
+What is the purpose of designing a transmit waveform to match a desired beampattern in radar systems?,hybrid+rerank,1
+Which reference describes a MIMO radar waveform design approach that incorporates constant‑modulus and similarity constraints?,bm25,1
+Which reference describes a MIMO radar waveform design approach that incorporates constant‑modulus and similarity constraints?,dense,3
+Which reference describes a MIMO radar waveform design approach that incorporates constant‑modulus and similarity constraints?,hybrid,2
+Which reference describes a MIMO radar waveform design approach that incorporates constant‑modulus and similarity constraints?,hybrid+rerank,1
+Which constraint is introduced to reduce interference energy at communication systems while enhancing radar performance?,bm25,1
+Which constraint is introduced to reduce interference energy at communication systems while enhancing radar performance?,dense,1
+Which constraint is introduced to reduce interference energy at communication systems while enhancing radar performance?,hybrid,1
+Which constraint is introduced to reduce interference energy at communication systems while enhancing radar performance?,hybrid+rerank,1
+How does the method introduced by Khobahi et al. achieve fast adaptation and outperform other state‑of‑the‑art iterative methods in time‑varying environments despite lacking statistical information about interference and noise?,bm25,1
+How does the method introduced by Khobahi et al. achieve fast adaptation and outperform other state‑of‑the‑art iterative methods in time‑varying environments despite lacking statistical information about interference and noise?,dense,1
+How does the method introduced by Khobahi et al. achieve fast adaptation and outperform other state‑of‑the‑art iterative methods in time‑varying environments despite lacking statistical information about interference and noise?,hybrid,1
+How does the method introduced by Khobahi et al. achieve fast adaptation and outperform other state‑of‑the‑art iterative methods in time‑varying environments despite lacking statistical information about interference and noise?,hybrid+rerank,1
+Which 2016 IEEE Transactions on Signal Processing paper addresses MIMO radar beampattern design using PSL/ISL optimization?,bm25,1
+Which 2016 IEEE Transactions on Signal Processing paper addresses MIMO radar beampattern design using PSL/ISL optimization?,dense,1
+Which 2016 IEEE Transactions on Signal Processing paper addresses MIMO radar beampattern design using PSL/ISL optimization?,hybrid,1
+Which 2016 IEEE Transactions on Signal Processing paper addresses MIMO radar beampattern design using PSL/ISL optimization?,hybrid+rerank,1
+What journal published the 2020 paper on a model‑driven deep learning approach for massive MIMO detection?,bm25,1
+What journal published the 2020 paper on a model‑driven deep learning approach for massive MIMO detection?,dense,4
+What journal published the 2020 paper on a model‑driven deep learning approach for massive MIMO detection?,hybrid,2
+What journal published the 2020 paper on a model‑driven deep learning approach for massive MIMO detection?,hybrid+rerank,1
+How can a prior‑guided deep‑learning network be used to address radar waveform design objectives such as SINR maximization or beampattern matching?,bm25,2
+How can a prior‑guided deep‑learning network be used to address radar waveform design objectives such as SINR maximization or beampattern matching?,dense,3
+How can a prior‑guided deep‑learning network be used to address radar waveform design objectives such as SINR maximization or beampattern matching?,hybrid,2
+How can a prior‑guided deep‑learning network be used to address radar waveform design objectives such as SINR maximization or beampattern matching?,hybrid+rerank,1
+What components make up the deep‑learning structure used to minimize the objective functions in the described method?,bm25,1
+What components make up the deep‑learning structure used to minimize the objective functions in the described method?,dense,1
+What components make up the deep‑learning structure used to minimize the objective functions in the described method?,hybrid,1
+What components make up the deep‑learning structure used to minimize the objective functions in the described method?,hybrid+rerank,1
+What radar parameters and device characteristics are typically included in the constrained optimization formulation for designing a radar waveform?,bm25,1
+What radar parameters and device characteristics are typically included in the constrained optimization formulation for designing a radar waveform?,dense,3
+What radar parameters and device characteristics are typically included in the constrained optimization formulation for designing a radar waveform?,hybrid,2
+What radar parameters and device characteristics are typically included in the constrained optimization formulation for designing a radar waveform?,hybrid+rerank,1
+Which constraint in radar waveform design makes the optimization problem non‑convex?,bm25,1
+Which constraint in radar waveform design makes the optimization problem non‑convex?,dense,2
+Which constraint in radar waveform design makes the optimization problem non‑convex?,hybrid,1
+Which constraint in radar waveform design makes the optimization problem non‑convex?,hybrid+rerank,1
+"How do unrolled networks differ from generic deep learning methods in terms of solution variance, according to the passage?",bm25,3
+"How do unrolled networks differ from generic deep learning methods in terms of solution variance, according to the passage?",dense,2
+"How do unrolled networks differ from generic deep learning methods in terms of solution variance, according to the passage?",hybrid,3
+"How do unrolled networks differ from generic deep learning methods in terms of solution variance, according to the passage?",hybrid+rerank,5
+What benefit does mapping each iteration of an algorithm to a custom-designed network step provide in an unrolled network?,bm25,1
+What benefit does mapping each iteration of an algorithm to a custom-designed network step provide in an unrolled network?,dense,4
+What benefit does mapping each iteration of an algorithm to a custom-designed network step provide in an unrolled network?,hybrid,2
+What benefit does mapping each iteration of an algorithm to a custom-designed network step provide in an unrolled network?,hybrid+rerank,1
+Which 2022 IEEE Transactions on Wireless Communications article introduces an unsupervised deep‑unrolling framework for solving constrained optimization problems in wireless networks?,bm25,1
+Which 2022 IEEE Transactions on Wireless Communications article introduces an unsupervised deep‑unrolling framework for solving constrained optimization problems in wireless networks?,dense,1
+Which 2022 IEEE Transactions on Wireless Communications article introduces an unsupervised deep‑unrolling framework for solving constrained optimization problems in wireless networks?,hybrid,1
+Which 2022 IEEE Transactions on Wireless Communications article introduces an unsupervised deep‑unrolling framework for solving constrained optimization problems in wireless networks?,hybrid+rerank,1
+What benefit does deep learning provide in radar waveform design by shifting most computation to an offline training step?,bm25,1
+What benefit does deep learning provide in radar waveform design by shifting most computation to an offline training step?,dense,1
+What benefit does deep learning provide in radar waveform design by shifting most computation to an offline training step?,hybrid,1
+What benefit does deep learning provide in radar waveform design by shifting most computation to an offline training step?,hybrid+rerank,1
+What open question does the passage identify about determining the appropriate depth of deep learning networks for radar waveform design?,bm25,1
+What open question does the passage identify about determining the appropriate depth of deep learning networks for radar waveform design?,dense,2
+What open question does the passage identify about determining the appropriate depth of deep learning networks for radar waveform design?,hybrid,1
+What open question does the passage identify about determining the appropriate depth of deep learning networks for radar waveform design?,hybrid+rerank,1
+How many residual blocks are present in the forward propagation module described in the passage?,bm25,3
+How many residual blocks are present in the forward propagation module described in the passage?,dense,5
+How many residual blocks are present in the forward propagation module described in the passage?,hybrid,4
+How many residual blocks are present in the forward propagation module described in the passage?,hybrid+rerank,1
+Which 2015 IEEE Transactions paper addresses waveform optimization for transmit beamforming with MIMO radar antenna arrays?,bm25,1
+Which 2015 IEEE Transactions paper addresses waveform optimization for transmit beamforming with MIMO radar antenna arrays?,dense,1
+Which 2015 IEEE Transactions paper addresses waveform optimization for transmit beamforming with MIMO radar antenna arrays?,hybrid,1
+Which 2015 IEEE Transactions paper addresses waveform optimization for transmit beamforming with MIMO radar antenna arrays?,hybrid+rerank,1
+What challenges regarding explainability and robustness must be solved before deep‑learning waveform design methods can be reliably deployed?,bm25,1
+What challenges regarding explainability and robustness must be solved before deep‑learning waveform design methods can be reliably deployed?,dense,1
+What challenges regarding explainability and robustness must be solved before deep‑learning waveform design methods can be reliably deployed?,hybrid,1
+What challenges regarding explainability and robustness must be solved before deep‑learning waveform design methods can be reliably deployed?,hybrid+rerank,1
+How many residual blocks are depicted in the network diagram described in the passage?,bm25,1
+How many residual blocks are depicted in the network diagram described in the passage?,dense,1
+How many residual blocks are depicted in the network diagram described in the passage?,hybrid,1
+How many residual blocks are depicted in the network diagram described in the passage?,hybrid+rerank,2
+In which IEEE journal was the 2020 paper on quartic gradient descent for radar slow‑time ambiguity function shaping published?,bm25,1
+In which IEEE journal was the 2020 paper on quartic gradient descent for radar slow‑time ambiguity function shaping published?,dense,3
+In which IEEE journal was the 2020 paper on quartic gradient descent for radar slow‑time ambiguity function shaping published?,hybrid,1
+In which IEEE journal was the 2020 paper on quartic gradient descent for radar slow‑time ambiguity function shaping published?,hybrid+rerank,1
+"Why is algorithm unrolling considered a useful strategy for creating explainable, domain‑enriched neural networks in radar waveform design?",bm25,1
+"Why is algorithm unrolling considered a useful strategy for creating explainable, domain‑enriched neural networks in radar waveform design?",dense,1
+"Why is algorithm unrolling considered a useful strategy for creating explainable, domain‑enriched neural networks in radar waveform design?",hybrid,1
+"Why is algorithm unrolling considered a useful strategy for creating explainable, domain‑enriched neural networks in radar waveform design?",hybrid+rerank,2
+Which 2016 IEEE Transactions on Signal Processing paper proposes using the alternating direction method of multipliers for unimodular sequence design?,bm25,1
+Which 2016 IEEE Transactions on Signal Processing paper proposes using the alternating direction method of multipliers for unimodular sequence design?,dense,1
+Which 2016 IEEE Transactions on Signal Processing paper proposes using the alternating direction method of multipliers for unimodular sequence design?,hybrid,1
+Which 2016 IEEE Transactions on Signal Processing paper proposes using the alternating direction method of multipliers for unimodular sequence design?,hybrid+rerank,1
+What limitation of the original PDR algorithm is addressed by converting the descent direction and step size into trainable parameters in the unrolled PDR architecture?,bm25,1
+What limitation of the original PDR algorithm is addressed by converting the descent direction and step size into trainable parameters in the unrolled PDR architecture?,dense,1
+What limitation of the original PDR algorithm is addressed by converting the descent direction and step size into trainable parameters in the unrolled PDR architecture?,hybrid,1
+What limitation of the original PDR algorithm is addressed by converting the descent direction and step size into trainable parameters in the unrolled PDR architecture?,hybrid+rerank,1
+"What major challenge do iterative algorithms face that can limit their performance, according to the passage?",bm25,1
+"What major challenge do iterative algorithms face that can limit their performance, according to the passage?",dense,1
+"What major challenge do iterative algorithms face that can limit their performance, according to the passage?",hybrid,1
+"What major challenge do iterative algorithms face that can limit their performance, according to the passage?",hybrid+rerank,1
+"Which 2020 conference paper by Khobahi, Bose, and Soltanalian addresses deep radar waveform design for automotive radar sensing?",bm25,1
+"Which 2020 conference paper by Khobahi, Bose, and Soltanalian addresses deep radar waveform design for automotive radar sensing?",dense,1
+"Which 2020 conference paper by Khobahi, Bose, and Soltanalian addresses deep radar waveform design for automotive radar sensing?",hybrid,1
+"Which 2020 conference paper by Khobahi, Bose, and Soltanalian addresses deep radar waveform design for automotive radar sensing?",hybrid+rerank,1
